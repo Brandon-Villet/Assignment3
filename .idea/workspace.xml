@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b09d85fd-1062-4e81-a0de-9cad39972ebb" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Arquillian JUnit Test Class" />
+        <option value="JUnit4 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YdVjGVJMhSnUO8PBiVN1dycdUz" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Arquillian JUnit4" value="" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.includeInheritedMembers" value="true" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="http.proxy" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="org.example" />
+    </key>
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="org.example" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.VehicleTest.BikeIsVechicle">
+    <configuration name="VehicleTest.BikeIsVechicle" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Assignment3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example" />
+      <option name="MAIN_CLASS_NAME" value="org.example.VehicleTest" />
+      <option name="METHOD_NAME" value="BikeIsVechicle" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VehicleTest.CarIsVechicle" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Assignment3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example" />
+      <option name="MAIN_CLASS_NAME" value="org.example.VehicleTest" />
+      <option name="METHOD_NAME" value="CarIsVechicle" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VehicleTest.setVinNum" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Assignment3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example" />
+      <option name="MAIN_CLASS_NAME" value="org.example.VehicleTest" />
+      <option name="METHOD_NAME" value="setVinNum" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.VehicleTest.BikeIsVechicle" />
+        <item itemvalue="JUnit.VehicleTest.CarIsVechicle" />
+        <item itemvalue="JUnit.VehicleTest.setVinNum" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b09d85fd-1062-4e81-a0de-9cad39972ebb" name="Default Changelist" comment="" />
+      <created>1583272591270</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583272591270</updated>
+      <workItem from="1583272594151" duration="10743000" />
+      <workItem from="1583287743916" duration="318000" />
+      <workItem from="1583288289818" duration="222000" />
+      <workItem from="1583304215286" duration="137000" />
+      <workItem from="1583304395641" duration="777000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="418" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583272815803">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="418" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1032@0.0.1920.1032" timestamp="1583272815803" />
+    <state x="768" y="220" width="531" height="601" key="#com.intellij.ide.util.MemberChooser" timestamp="1583286242710">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="768" y="220" width="531" height="601" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1032@0.0.1920.1032" timestamp="1583286242710" />
+    <state x="693" y="265" width="524" height="510" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1583276243872">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="693" y="265" width="524" height="510" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1032@0.0.1920.1032" timestamp="1583276243872" />
+    <state x="713" y="379" width="484" height="283" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1583276268378">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="713" y="379" width="484" height="283" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1920.1032@0.0.1920.1032" timestamp="1583276268378" />
+    <state width="1878" height="269" key="GridCell.Tab.0.bottom" timestamp="1583287701969">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1878" height="269" key="GridCell.Tab.0.bottom/0.0.1920.1032@0.0.1920.1032" timestamp="1583287701969" />
+    <state width="1878" height="269" key="GridCell.Tab.0.center" timestamp="1583287701968">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1878" height="269" key="GridCell.Tab.0.center/0.0.1920.1032@0.0.1920.1032" timestamp="1583287701968" />
+    <state width="1878" height="269" key="GridCell.Tab.0.left" timestamp="1583287701968">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1878" height="269" key="GridCell.Tab.0.left/0.0.1920.1032@0.0.1920.1032" timestamp="1583287701968" />
+    <state width="1878" height="269" key="GridCell.Tab.0.right" timestamp="1583287701968">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1878" height="269" key="GridCell.Tab.0.right/0.0.1920.1032@0.0.1920.1032" timestamp="1583287701968" />
+    <state x="464" y="151" width="992" height="739" key="SettingsEditor" timestamp="1583304289475">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="464" y="151" width="992" height="739" key="SettingsEditor/0.0.1920.1032@0.0.1920.1032" timestamp="1583304289475" />
+    <state x="734" y="212" width="442" height="616" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1583281973782">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="734" y="212" width="442" height="616" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1920.1032@0.0.1920.1032" timestamp="1583281973782" />
+    <state x="693" y="268" width="531" height="506" key="extract.method.dialog" timestamp="1583284465455">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="693" y="268" width="531" height="506" key="extract.method.dialog/0.0.1920.1032@0.0.1920.1032" timestamp="1583284465455" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/org/example/VehicleTest.java</url>
+          <line>19</line>
+          <properties class="org.example.VehicleTest" method="CarIsVechicle">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/org/example/VehicleTest.java</url>
+          <line>23</line>
+          <properties class="org.example.VehicleTest" method="BikeIsVechicle">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/org/example/VehicleTest.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
